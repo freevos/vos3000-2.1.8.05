@@ -15,3 +15,9 @@ tar -zvf vos30002185.tar.gz && cd vos30002185 && bash ./install.sh
 4.
 Take notes of printed login infos and then
 reboot
+
+
+# If you want to share newer versions, please submit a issue with relevant info.
+
+
+# WEBSITE: freevos.net
