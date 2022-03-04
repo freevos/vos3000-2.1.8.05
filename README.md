@@ -17,13 +17,13 @@ Take notes of printed login infos and then
 reboot
 
 
-# If you want to share newer versions, please submit a issue with relevant info.
+**If you want to share newer versions, please submit a issue with relevant info.**
 
 
-# WEBSITE: freevos.net
+**WEBSITE: freevos.net**
 
 
-# Backup download link:
+# Backup download links:
 
 vos30002185.tar.gz
 https://mega.nz/file/eLwjwSxJ#kGi8H2A9KtKUYOVxvRPDgIzHKheV8FdC5FA72UcNG58
