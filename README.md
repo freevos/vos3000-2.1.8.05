@@ -1,5 +1,7 @@
 # VOS3000 2.1.8.05 installer
 
+## Our website and online-keygen is back online.
+
 1.
 Prepare a CentOS 7 server.
 
